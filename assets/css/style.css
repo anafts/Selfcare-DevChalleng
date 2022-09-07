@@ -85,6 +85,8 @@
     height: 300px;
  }
 
+ /* footer styles section - 01*/
+
  .footer__info {
     padding: 40px 70px 20px;
     display: flex;
@@ -148,6 +150,9 @@
     border-radius: 0px 5px 5px 0px;
  }
 
+
+  /* footer styles section - 02*/
+
  .footer__icons {
     display: flex;
     align-items: center;
@@ -163,4 +168,28 @@
     width: 30px;
     margin: 10px;
  }
+
+ .footer__icons--card {
+    margin-right: 70px;
+ }
+
+
+ .footer__icons--card_master {
+    width: 40px;
+    margin: 5px;
+ }
+
+ .footer__icons--card_pay {
+    width: 20px;
+    height: 25px;
+    margin: 5px;
+ }
+
+
+ .footer__icons--card_visa {
+    width: 45px;
+    margin: 5px;
+ }
+
+ 
 
