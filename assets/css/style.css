@@ -43,3 +43,34 @@
  }
 
 
+ /* info styles */
+
+ .info {
+    height: 50px;
+    width: 100%;
+ }
+
+ .info__items {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+ }
+
+ .info__items_title {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 70px;
+    color: #161616;
+ }
+
+ .info__items_text {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #161616;
+    margin-right: 70px;
+ }
